@@ -6,8 +6,8 @@
  */
 void puts2(char *str)
 {
+	int t = 0;
 	int o;
-
 
 	for (o = 0 ; o <= t ; o++)
 	{
